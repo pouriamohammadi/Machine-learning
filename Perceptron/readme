@@ -1,5 +1,5 @@
 This folder including the codes of hw3.
 For running my code you just run the run.sh and it will give you the answers for all 3 codes.
-The outputa of standard are : final W and error of test set
-The outputa of voted are : all w and Cm + number of them + error of test set
-The outputa of average are : the final w + error of test set
+The outputs of standard are : final W and error of test set
+The outputs f voted are : all w and Cm + number of them + error of test set
+The outputs of average are : the final w + error of test set
