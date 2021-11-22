@@ -1,0 +1,19 @@
+gamma= 0.1
+train_error 0.0
+test_error 0.004 
+
+gamma= 0.05
+train_error 0.0
+test_error 0.002 
+
+gamma= 1
+train_error 0.0
+test_error 0.004 
+
+gamma= 5
+train_error 0.0
+test_error 0.004 
+
+gamma= 100
+train_error 0.0
+test_error 0.0 

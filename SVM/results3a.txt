@@ -1,0 +1,21 @@
+C=  0.1145475372279496
+w= [-0.94292578 -0.65149186 -0.733722   -0.04102201]
+b= 2.5290803402488047
+train_error 0.026376146788990827
+test_error 0.03 
+
+
+runfile('C:/Users/Pouria/Desktop/CS 6350-001 -Machine-learning/hw4/bank-note/code/question3a.py', wdir='C:/Users/Pouria/Desktop/CS 6350-001 -Machine-learning/hw4/bank-note/code')
+C=  0.572737686139748
+w= [-1.56394043 -1.01405298 -1.18065208 -0.15651778]
+b= 3.89920006057353
+train_error 0.03096330275229358
+test_error 0.034 
+
+
+runfile('C:/Users/Pouria/Desktop/CS 6350-001 -Machine-learning/hw4/bank-note/code/question3a.py', wdir='C:/Users/Pouria/Desktop/CS 6350-001 -Machine-learning/hw4/bank-note/code')
+C=  0.8018327605956472
+w= [-2.04254275 -1.28070707 -1.51352511 -0.24907191]
+b= 5.160436062765153
+train_error 0.034403669724770644
+test_error 0.036 
