@@ -1,2 +1,8 @@
 These are codes related to the HW4.
 All functions are included in each file of codes and there is no need to import anything.
+The outputs of question2a are : final w + error of train and test set for each combination of gamma , a, and C
+The outputs of question2b are : final w + error of train and test set for each combination of gamma and C
+The outputs of question3a are : the final w and b + error of train and test set for the hyperparameter (you should change hyperparameter)
+The outputs of question3b are : the final b + error of train and test set for each combination of gamma and C
+The outputs of question3c are : Number of Support Vectors related to each combination of gamma and C + Number of overlapped for 500/873
+The outputs of question3d are : the error of test and train set for each gamma
