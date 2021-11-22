@@ -35,7 +35,13 @@ y_i = df_train['label'].to_numpy()
 y_i = np.reshape(y_i,(df_train.shape[0],1))
 
 #hyperparameter
-C = 700/873
+print('Enter your C nominator value:')
+C_n= float(input())
+print('Enter your C denominator value:')
+C_d= float(input())
+C=C_n/C_d
+print("C=",C)
+# C = 700/873
 
 # x_i_j=np.matmul(x_i,x_i.transpose())
 # y_i_j=np.matmul(y_i,y_i.transpose())
@@ -73,7 +79,7 @@ alpha_final=solv.x
 alpha_final=np.reshape(alpha_final,(df_train.shape[0],1))
 xy_output=np.multiply(x_i,y_i)
 w_out=np.multiply(xy_output,alpha_final).sum(axis=0)
-print ('C= ', C)
+# print ('C= ', C)
 print('w=',w_out)
 
 #find list of b
