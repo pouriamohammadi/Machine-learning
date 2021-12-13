@@ -1,2 +1,3 @@
 This folder includes HW5 codes.
 For questions 2B and 2C , just input the hyperparameters, the results will be printed and plotted.
+For questions 2E_TANH and 2E_RELU , just input the depth, the results will be printed and plotted.
