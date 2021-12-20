@@ -1,0 +1,4 @@
+This folder includes the final code of Pouria Mohammadi exploratory project.
+In this code I used Sklearn library for ML.
+Just run the code and choose which classifier would you like to use.
+The results of best parameters will be shown.
